@@ -1,0 +1,13 @@
+﻿linguagem;cache;usuarios_virtuais;requisicoes;media_ms;mediana_ms;p90_ms;p95_ms;falhas_http_percentual
+Python;Com cache;1;10;23.19;9.4;34.32;80.96;0
+Python;Com cache;5;50;47.67;17.62;123.17;316.72;0
+Python;Com cache;10;100;44.68;40.56;71.32;81.68;0
+Python;Sem cache;1;10;114.23;113.76;176.8;182.85;0
+Python;Sem cache;5;50;235.87;173.63;389.78;545.62;0
+Python;Sem cache;10;100;399.14;315.85;715.63;975.12;0
+Ruby;Com cache;1;10;120.71;123.31;177.87;187.3;0
+Ruby;Com cache;5;50;14.02;9.21;33.56;39.84;0
+Ruby;Com cache;10;100;18.29;14.71;32.11;38.05;0
+Ruby;Sem cache;1;10;130.08;119.21;202.13;220.19;0
+Ruby;Sem cache;5;50;228.96;76.85;418.85;1170;0
+Ruby;Sem cache;10;100;368.87;119.36;1050;1100;0
